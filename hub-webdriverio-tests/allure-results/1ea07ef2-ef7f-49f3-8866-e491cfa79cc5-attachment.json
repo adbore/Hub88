@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#username\"}\n  (Session info: chrome=105.0.5195.54)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x0063DF13+2219795]\n\tOrdinal0 [0x005D2841+1779777]\n\tOrdinal0 [0x004E423D+803389]\n\tOrdinal0 [0x00513025+995365]\n\tOrdinal0 [0x005131EB+995819]\n\tOrdinal0 [0x00540F52+1183570]\n\tOrdinal0 [0x0052E844+1108036]\n\tOrdinal0 [0x0053F192+1175954]\n\tOrdinal0 [0x0052E616+1107478]\n\tOrdinal0 [0x00507F89+950153]\n\tOrdinal0 [0x00508F56+954198]\n\tGetHandleVerifier [0x00932CB2+3040210]\n\tGetHandleVerifier [0x00922BB4+2974420]\n\tGetHandleVerifier [0x006D6A0A+565546]\n\tGetHandleVerifier [0x006D5680+560544]\n\tOrdinal0 [0x005D9A5C+1808988]\n\tOrdinal0 [0x005DE3A8+1827752]\n\tOrdinal0 [0x005DE495+1827989]\n\tOrdinal0 [0x005E80A4+1867940]\n\tBaseThreadInitThunk [0x76196739+25]\n\tRtlGetFullPathName_UEx [0x76F790AF+1215]\n\tRtlGetFullPathName_UEx [0x76F7907D+1165]\n"
+}
